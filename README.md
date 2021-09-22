@@ -99,3 +99,11 @@ Project is created with:
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
 | `username`      | `String` | **Required**. username of user to fetch |
+
+## Screenshots
+
+![App Screenshot](https://github.com/miladarianfar/MailAPI/blob/main/dabirkhaneh/screenshots/Capture.PNG)
+
+![App Screenshot](https://github.com/miladarianfar/MailAPI/blob/main/dabirkhaneh/screenshots/Capture2.PNG)
+
+![App Screenshot](https://github.com/miladarianfar/MailAPI/blob/main/dabirkhaneh/screenshots/Capture3.PNG)
