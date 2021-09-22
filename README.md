@@ -9,8 +9,7 @@ Project is created with:
 * springboot version : 2.5.4
 * jpa
 * MySQL
-* spring rest
-
+* spring res
 
 ## API Reference
 
